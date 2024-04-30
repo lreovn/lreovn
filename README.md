@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lreovn
 - 👀 I’m interested in coding in general
 - 🌱 I’m currently learning JS for fun
-- 📫 How to reach me ...
 
 
 <!---
